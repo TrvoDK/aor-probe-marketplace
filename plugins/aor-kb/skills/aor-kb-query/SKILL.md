@@ -5,3 +5,4 @@ license: MIT
 ---
 # aor-kb-query (PROTOTYPE fixture)
 Publish-path stub. Says only: "aor-kb-query loaded".
+CONTENT-MARKER-V1
