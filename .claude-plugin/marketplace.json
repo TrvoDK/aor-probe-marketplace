@@ -1,0 +1,9 @@
+{
+  "name": "aorprobe",
+  "owner": { "name": "proto" },
+  "metadata": { "description": "PROTOTYPE fixture (skills-dev #10) - throwaway", "version": "0.0.1" },
+  "plugins": [
+    { "name": "aor-kb",   "source": "./plugins/aor-kb",   "description": "PROTOTYPE aor-kb (preview)" },
+    { "name": "aor-comm", "source": "./plugins/aor-comm", "description": "PROTOTYPE aor-comm (preview)" }
+  ]
+}
